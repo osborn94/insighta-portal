@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/OSBORN/Desktop/insighta-portal/app/page.js"],"sourcesContent":["'use client';\r\n\r\nexport default function Home() {\r\n  return (\r\n    <div style={{ padding: 20 }}>\r\n      <h1>Insighta Dashboard</h1>\r\n      <p>Use navigation to explore profiles.</p>\r\n    </div>\r\n  );\r\n}"],"names":["Home","style","padding"],"mappings":";;;;;AAAA;;AAEe,SAASA;IACtB,qBACE,8NAAC;QAAIC,OAAO;YAAEC,SAAS;QAAG;;0BACxB,8NAAC;0BAAG;;;;;;0BACJ,8NAAC;0BAAE;;;;;;;;;;;;AAGT;KAPwBF"}}]
+}
