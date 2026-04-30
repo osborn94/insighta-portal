@@ -1,0 +1,3 @@
+module.exports=[24361,(a,b,c)=>{b.exports=a.x("util",()=>require("util"))},14747,(a,b,c)=>{b.exports=a.x("path",()=>require("path"))},90316,a=>{"use strict";var b=a.i(11915),c=a.i(54455),d=a.i(49481),e=a.i(15115);a.s(["default",0,function(){let[a,f]=(0,c.useState)([]);return(0,c.useEffect)(()=>{(async()=>{try{let a=await d.api.get("/profiles");f(a.data.data)}catch(a){console.error(a.response?.data||a.message)}})()},[]),(0,b.jsxs)("div",{style:{padding:20},children:[(0,b.jsx)("h2",{children:"Profiles"}),(0,b.jsx)(e.default,{data:a})]})}])}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__13az4jw._.js.map

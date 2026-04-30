@@ -1,0 +1,3 @@
+module.exports=[24361,(a,b,c)=>{b.exports=a.x("util",()=>require("util"))},14747,(a,b,c)=>{b.exports=a.x("path",()=>require("path"))},35479,a=>{"use strict";var b=a.i(11915),c=a.i(54455),d=a.i(49481),e=a.i(15115);a.s(["default",0,function(){let[a,f]=(0,c.useState)(""),[g,h]=(0,c.useState)([]),i=async()=>{h((await d.api.get("/profiles/search",{params:{q:a}})).data.data)};return(0,b.jsxs)("div",{style:{padding:20},children:[(0,b.jsx)("h2",{children:"Search"}),(0,b.jsx)("input",{value:a,onChange:a=>f(a.target.value),placeholder:"young males from nigeria"}),(0,b.jsx)("button",{onClick:i,children:"Search"}),(0,b.jsx)(e.default,{data:g})]})}])}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__0cvbenm._.js.map

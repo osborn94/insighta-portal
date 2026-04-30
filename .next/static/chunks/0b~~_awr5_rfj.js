@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,22071,e=>{"use strict";var i=e.i(97658);e.s(["default",0,function(){return(0,i.jsxs)("div",{style:{padding:20},children:[(0,i.jsx)("h1",{children:"Insighta Dashboard"}),(0,i.jsx)("p",{children:"Use navigation to explore profiles."})]})}])}]);
